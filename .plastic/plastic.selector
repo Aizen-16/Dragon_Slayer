@@ -1,0 +1,4 @@
+repository "Izeal project again/Izeal project again@2474757094532@cloud"
+  path "/"
+    br "/main"
+    co "/main"
